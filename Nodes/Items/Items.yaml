@@ -63,7 +63,7 @@ Children:
   Type: ObjectLibraryItem
   Children:
   - Name: New_Label
-    Id: g=6fa1b374404b2d3fdd0ffaf99508f737
+    Id: g=568bf8407e0d7bff742f7794890f15b4
     Supertype: Label
     ReferenceType: HasComponent
     Children:
