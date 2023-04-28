@@ -36,20 +36,3 @@ Children:
       DataType: Size
       ModellingRule: Optional
       Value: 50.0
-- Name: NewSpinBox
-  Type: ObjectLibraryItem
-  Children:
-  - Name: NewSpinBox
-    Id: g=cf891faf1e84ea2c4d2f9612ddf05694
-    Supertype: SpinBox
-    ReferenceType: HasComponent
-    Children:
-    - Name: Value
-      Type: BaseDataVariableType
-      DataType: Double
-      Value: 20.0
-    - Name: Width
-      Type: BaseVariableType
-      DataType: Size
-      ModellingRule: Optional
-      Value: 80.0
