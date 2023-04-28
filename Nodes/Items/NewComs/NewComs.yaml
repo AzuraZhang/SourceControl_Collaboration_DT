@@ -1,0 +1,16 @@
+Name: NewComs
+Type: FolderType
+Children:
+- Name: New_Label
+  Type: ObjectLibraryItem
+  Children:
+  - Name: New_Label
+    Id: g=162ebe5f810f8a6b2051559375496251
+    Supertype: Label
+    ReferenceType: HasComponent
+    Children:
+    - Name: Text
+      Type: BaseDataVariableType
+      DataType: LocalizedText
+      ModellingRule: Optional
+      Value: {"LocaleId":"en-US","Text":"Label1"}
