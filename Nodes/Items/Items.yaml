@@ -36,3 +36,4 @@ Children:
       DataType: Size
       ModellingRule: Optional
       Value: 50.0
+- File: NewComs/NewComs.yaml
