@@ -1,12 +1,12 @@
 Name: Items
 Type: FolderType
 Children:
-- Name: Label1
+- Name: Label122
   Type: ObjectLibraryItem
   Children:
   - Name: Label122
     Id: g=716a51a5e5fe25d328903ce3b760d174
-    Supertype: Label22
+    Supertype: Label
     ReferenceType: HasComponent
     Children:
     - Name: Text
